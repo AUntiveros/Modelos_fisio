@@ -1,2 +1,7 @@
 Datasets/
 notebooks/dengue/Dengue_procesado_para_modelo_lags_depto.csv
+notebooks/dengue/Dengue_procesado_para_modelo_lags_mun.csv
+notebooks/dengue/lags_optimos_por_departamento.csv
+Dengue_consolidado_distrital_final.csv
+.venv
+Dengue
