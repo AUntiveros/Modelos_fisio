@@ -1,0 +1,1 @@
+A partir de Apurímac se va a "evaluar casos por provincias". En caso una provincia no tenga casos, no se detallará ni por distritos ni por edad o género.
