@@ -1,13 +1,19 @@
 # Juntando dataset para entrenar el modelo
 
 ## En proceso:  
-- La carpeta **dengue_cdc** está para juntar data del CDC. Ando usando este enlace: https://app7.dge.gob.pe/maps/sala_metaxenica/  
+- La carpeta **dengue_cdc** está para juntar data del CDC. Ando usando este enlace: https://app7.dge.gob.pe/maps/sala_metaxenica/  [año 2025]
    * Amazonas
    * Ancash
    * Apurimac
    * Arequipa
    * Ayacucho
    * Cajamarca
+   * Callao
+   * Cusco
+   * Huancavelica
+   * Huanuco
+   * Ica
+   * Junin
 
 
 - La carpeta **dataset** es para juntar dataset de varias fuentes, el contenido y otros datos se detallarán en **avance.ipynb**
