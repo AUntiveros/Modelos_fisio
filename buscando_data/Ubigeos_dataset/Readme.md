@@ -1,0 +1,2 @@
+# Ubigeos_centroides
+Lo que hice en esta parte fue, tener una georeferencia de ubicación en lat y long de cada distrito a partir de sus centroides, para poder hacer la correlación espacial entre ellos.
