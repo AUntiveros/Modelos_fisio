@@ -1,0 +1,53 @@
+==================== REPORTE FINAL ====================
+Se encontraron 8 fallos durante la ejecución:
+  - Archivo/Contexto: 2025-DENGUE-LA_LIBERTAD-SANTIAGO_DE_CHUCO-SITABAMBA
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+  - Archivo/Contexto: 2025-DENGUE-LIMA-HUARAL-AUCALLAMA
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+  - Archivo/Contexto: 2025-DENGUE-LIMA-HUARAL-CHANCAY
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+  - Archivo/Contexto: 2025-DENGUE-LIMA-HUARAL-HUARAL
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+  - Archivo/Contexto: 2025-DENGUE-LIMA-HUARAL-IHUARI
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+  - Archivo/Contexto: 2025-DENGUE-LIMA-HUARAL-LAMPIAN
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+  - Archivo/Contexto: 2025-DENGUE-LIMA-HUARAL-PACARAOS
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+  - Archivo/Contexto: 2025-DENGUE-LIMA-HUARAL-SAN_MIGUEL_DE_ACOS
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+======================================================
+
+¡Proceso de iteración finalizado! El navegador se cerrará en 15 segundos.

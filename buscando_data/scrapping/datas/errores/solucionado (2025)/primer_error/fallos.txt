@@ -1,0 +1,75 @@
+--- INICIANDO PROCESO PARA EL DISTRITO: CALAMARCA ---
+Intento 1/3 para seleccionar 'CALAMARCA'...
+Verificando estado de carga y esperando si es necesario...
+La página está lista para la siguiente acción.
+Haciendo clic en 'Procesar'...
+Procesando, esperando que el contenido se actualice...
+!!! FALLO EN DESCARGA 3: Timeout para CALAMARCA. Captura guardada.
+
+--- INICIANDO PROCESO PARA EL DISTRITO: CARABAMBA ---
+Intento 1/3 para seleccionar 'CARABAMBA'...
+Verificando estado de carga y esperando si es necesario...
+La página está lista para la siguiente acción.
+Haciendo clic en 'Procesar'...
+Procesando, esperando que el contenido se actualice...
+!!! FALLO EN DESCARGA 3: Timeout para CARABAMBA. Captura guardada.
+
+--- INICIANDO PROCESO PARA EL DISTRITO: HUASO ---
+Intento 1/3 para seleccionar 'HUASO'...
+Verificando estado de carga y esperando si es necesario...
+La página está lista para la siguiente acción.
+Haciendo clic en 'Procesar'...
+Procesando, esperando que el contenido se actualice...
+!!! FALLO EN DESCARGA 3: Timeout para HUASO. Captura guardada.
+
+--- INICIANDO PROCESO PARA EL DISTRITO: JULCAN ---
+Intento 1/3 para seleccionar 'JULCAN'...
+
+--- FALLO GENERAL ---
+Ocurrió un error inesperado en el flujo principal: Locator.click: Timeout 30000ms exceeded.
+Call log:
+  - waiting for locator("#ten-fdist-filter-selectized")
+    - locator resolved to <input type="text" tabindex="" autofill="no" role="combobox" haspopup="listbox" aria-expanded="false" aria-owns="8c10g8t48n" autocomplete="new-password" id="ten-fdist-filter-selectized"/>
+  - attempting click action
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="ss-overlay" class="ss-gray-out"></div> intercepts pointer events
+    - retrying click action
+    - waiting 20ms
+    2 × waiting for element to be visible, enabled and stable
+      - element is visible, enabled and stable
+      - scrolling into view if needed
+      - done scrolling
+      - <div id="ss-overlay" class="ss-gray-out"></div> intercepts pointer events
+    - retrying click action
+      - waiting 100ms
+    56 × waiting for element to be visible, enabled and stable
+       - element is visible, enabled and stable
+       - scrolling into view if needed
+       - done scrolling
+       - <div id="ss-overlay" class="ss-gray-out"></div> intercepts pointer events
+     - retrying click action
+       - waiting 500ms
+
+
+
+==================== REPORTE FINAL ====================
+Se encontraron 3 fallos durante la ejecución:
+  - Archivo/Contexto: 2025-DENGUE-LA_LIBERTAD-JULCAN-CALAMARCA
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+  - Archivo/Contexto: 2025-DENGUE-LA_LIBERTAD-JULCAN-CARABAMBA
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
+
+
+  - Archivo/Contexto: 2025-DENGUE-LA_LIBERTAD-JULCAN-HUASO
+    Error: Locator.wait_for: Timeout 15000ms exceeded.
+Call log:
+  - waiting for locator("html.shiny-busy") to be visible
